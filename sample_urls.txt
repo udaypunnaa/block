@@ -1,0 +1,7 @@
+# Sample URLs for testing the bulk block/unblock functionality
+# Lines starting with # are ignored as comments
+
+www.amazon.in 
+www.facebook.com 
+www.myntra.com 
+www.instagram.com

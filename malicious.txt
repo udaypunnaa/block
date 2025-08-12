@@ -1,0 +1,4 @@
+http://testsafebrowsing.appspot.com/s/malware.html
+http://testsafebrowsing.appspot.com/s/phishing.html
+http://testsafebrowsing.appspot.com/s/unwanted.html
+http://testsafebrowsing.appspot.com/s/pua.html
