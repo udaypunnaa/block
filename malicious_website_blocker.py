@@ -18,7 +18,7 @@ from config import (GOOGLE_SAFE_BROWSING_API_KEY, SAFE_BROWSING_API_URL,
 
 # Email Configuration - UPDATE THESE WITH YOUR ACTUAL CREDENTIALS
 SENDER_EMAIL = "sup321980@gmail.com"  # Your Gmail address
-SENDER_PASSWORD = "nhcp obja fxkb zoii"    # Your Gmail app password
+SENDER_PASSWORD = "ebrc gqao dqdp wize"    # Your Gmail app password
 RECEIVER_EMAIL = "sup321980@gmail.com"  # Same as sender email (admin receives codes)
 
 # SMTP Configuration
